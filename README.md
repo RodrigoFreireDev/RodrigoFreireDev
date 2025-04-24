@@ -3,4 +3,4 @@
 - 🌱 I'm currently learning Elixir
   - 📖 Check out my courses: https://cursos.alura.com.br/user/rodrigo-freire-dev
 - 💞️ I'm looking to collaborate on Back-End development
-- 📫 How to contact me: Via Linkedin: https://www.linkedin.com/in/rodrigo-freire-007
+- 📫 How to contact me: Via Linkedin: https://www.linkedin.com/in/rodrigo-freire-dev/
